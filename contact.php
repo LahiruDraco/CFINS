@@ -61,6 +61,15 @@
                     </div>
               </div> 
             </div>
+
+           <!--  <ul class="social" id="socialM" style="list-style-type: none;">
+                        <li> <a target="_blank" href="https://www.facebook.com/ColomboFriendInNeedSociety"> <i class=" fa fa-facebook">- Facebook</i> </a> </li>
+                        
+                        <li> <a href="#"> <i class="fa fa-twitter">   </i> </a> </li>
+                        <li> <a href="#"> <i class="fa fa-google-plus">   </i> </a> </li>
+                        <li> <a href="#"> <i class="fa fa-youtube">   </i> </a> </li>
+                    
+                    </ul> -->
             </form>
         </div>
     </div>
