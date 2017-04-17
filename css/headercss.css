@@ -1,0 +1,65 @@
+
+  /* Custom, iPhone Retina */ 
+ @media only screen and (min-width : 320px) {
+
+ }
+
+ /* Extra Small Devices, Phones */ 
+ @media only screen and (min-width : 480px) {
+
+.mainlogo img{
+  width: 70%;
+}
+ }
+
+ /* Small Devices, Tablets */
+ @media only screen and (min-width : 768px) {
+.mainlogo img{
+  width: 70%;
+}
+ }
+
+ /* Medium Devices, Desktops */
+ @media only screen and (min-width : 992px) {
+.mainlogo img{
+  width: 70%;
+}
+ }
+
+ /* Large Devices, Wide Screens */
+ @media only screen and (min-width : 1200px) {
+.mainlogo img{
+  width: 70%;
+}
+ }
+
+ 
+ @media only screen and (min-width : 320px) {
+
+ }
+
+ @media only screen and (min-width : 480px) {
+
+ }
+
+ @media only screen and (min-width : 768px) {
+
+ }
+
+ @media only screen and (min-width : 992px) {
+.mainlogo img{
+	width: 50%;
+}
+ }
+
+ @media only screen and (min-width : 1200px) {
+.mainlogo img{
+	width: 50%;
+}
+ }
+
+
+ .navbar-brand{
+ 	position: relative;
+ 	z-index: 9999;
+ }
